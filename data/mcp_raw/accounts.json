@@ -1,0 +1,38 @@
+[
+ {
+  "name": "Northstar Labs Ltd Treasury",
+  "type": "INVESTMENT",
+  "currency": "GBP",
+  "balance": 1200687.46,
+  "gbp_balance": 1200687.46
+ },
+ {
+  "name": "HSBC Business Current",
+  "type": "BANKING",
+  "currency": "GBP",
+  "balance": 486320.18,
+  "gbp_balance": 486320.18
+ },
+ {
+  "name": "Revolut Business GBP",
+  "type": "BANKING",
+  "currency": "GBP",
+  "balance": 64820.35,
+  "gbp_balance": 64820.35
+ },
+ {
+  "name": "Northstar Modulr GBP",
+  "type": "BANKING",
+  "currency": "GBP",
+  "balance": 565400.2,
+  "gbp_balance": 565400.2
+ },
+ {
+  "name": "Northstar Modulr EUR",
+  "type": "BANKING",
+  "currency": "EUR",
+  "balance": 168400.75,
+  "gbp_balance": 141881.65,
+  "rate": 0.842524
+ }
+]

@@ -1,0 +1,956 @@
+{
+  "company": "Northstar Labs Ltd (Seapoint hackathon sandbox)",
+  "as_of": "2026-10-20",
+  "internal_domains": [
+    "northstarlabs.example",
+    "seapoint.co"
+  ],
+  "accounts": [
+    {
+      "name": "Seapoint (GBP)",
+      "currency": "GBP",
+      "balance": 565400.2
+    },
+    {
+      "name": "Seapoint (EUR)",
+      "currency": "EUR",
+      "balance": 168400.75
+    },
+    {
+      "name": "Seapoint Treasury (GBP)",
+      "currency": "GBP",
+      "balance": 1200687.46
+    },
+    {
+      "name": "HSBC UK Business (GBP)",
+      "currency": "GBP",
+      "balance": 486320.18
+    },
+    {
+      "name": "Revolut (GBP)",
+      "currency": "GBP",
+      "balance": 64820.35
+    }
+  ],
+  "recipients": [
+    {
+      "name": "WeWork UK Ltd",
+      "account": "60335512",
+      "sort_code": "20-26-08"
+    },
+    {
+      "name": "Amazon Web Services",
+      "account": "61554023",
+      "sort_code": "40-02-50"
+    },
+    {
+      "name": "Clearview Media",
+      "account": "62119047",
+      "sort_code": "23-14-70"
+    },
+    {
+      "name": "Connolly Accountants",
+      "account": "10428189",
+      "sort_code": "20-26-08"
+    },
+    {
+      "name": "HubSpot",
+      "account": "20447719",
+      "sort_code": "30-96-26"
+    },
+    {
+      "name": "Jane Doyle (Contractor)",
+      "account": "87654321",
+      "sort_code": "04-00-04"
+    },
+    {
+      "name": "Marta Nowak (Freelance)",
+      "iban": "DE75 5121 0800 1245 1261 99"
+    },
+    {
+      "name": "Northwind Facilities",
+      "account": "19338204",
+      "sort_code": "60-16-13"
+    },
+    {
+      "name": "Slack Technologies",
+      "account": "70336618",
+      "sort_code": "20-00-00"
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2025-08-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 6300,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-08-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-08-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-08-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 7400,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-09-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 11700,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-09-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-09-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-09-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 9800,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-10-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 10800,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-10-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-10-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-10-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 12200,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-11-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 9900,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-11-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-11-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-11-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 14600,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-12-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 9000,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-12-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-12-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2025-12-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 8600,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-01-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 8100,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-01-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-01-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-01-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 11000,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-02-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 7200,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-02-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-02-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-02-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 13400,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-03-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 6300,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-03-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-03-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-03-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 7400,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-04-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 11700,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-04-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-04-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-04-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 9800,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-05-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 10800,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-05-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-05-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-05-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 12200,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-06-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 9900,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-06-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-06-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-06-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 14600,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-07-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 9000,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-07-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-07-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-07-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 8600,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-08-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 8100,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-08-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-08-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-08-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 11000,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-09-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 7200,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-09-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-09-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-09-17",
+      "vendor": "Fathom Talent Partners",
+      "amount": 13400,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Payroll & Benefits",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-09-23",
+      "vendor": "Meridian Insurance Brokers",
+      "amount": 1240.0,
+      "currency": "GBP",
+      "account": "unknown",
+      "category": "Insurance",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-10-05",
+      "vendor": "Slack Technologies",
+      "amount": 486.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Subscriptions",
+      "matched_invoice": "SLK-6612"
+    },
+    {
+      "date": "2026-10-09",
+      "vendor": "Lodgewood Travel",
+      "amount": 6300,
+      "currency": "GBP",
+      "account": "Revolut (GBP)",
+      "category": "Travel & Entertainment",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-10-11",
+      "vendor": "Snowflake",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "account": "Seapoint (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": null
+    },
+    {
+      "date": "2026-10-11",
+      "vendor": "Amazon Web Services",
+      "amount": 6850.42,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Hosting & Infrastructure",
+      "matched_invoice": "AWS-INV-44821"
+    },
+    {
+      "date": "2026-10-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": "AUG-001"
+    },
+    {
+      "date": "2026-10-12",
+      "vendor": "Connolly Accountants",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "account": "HSBC UK Business (GBP)",
+      "category": "Legal & Professional Fees",
+      "matched_invoice": null
+    }
+  ],
+  "invoices": [
+    {
+      "id": "inv-01",
+      "payee": "Harbourline Logistics Ltd",
+      "received_from": "accounts@harbourline.example",
+      "due_date": "2026-09-15",
+      "reference": "HL-76890",
+      "amount": 540.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-02",
+      "payee": "Meridian Insurance Brokers Ltd",
+      "received_from": "renewals@meridian-brokers.example",
+      "due_date": "2026-09-23",
+      "reference": "MIB-2026-330",
+      "amount": 1240.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-03",
+      "payee": "Sentry",
+      "received_from": "billing@sentry.example",
+      "due_date": "2026-10-05",
+      "reference": "SEN-2026-10-4471",
+      "amount": 2800.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-04",
+      "payee": "Northwind Facilities",
+      "received_from": "accounts@northwind-facilities.example",
+      "due_date": "2026-10-07",
+      "reference": "NW-88431",
+      "amount": 975.0,
+      "currency": "GBP",
+      "ui_new_payee": false,
+      "bill_to": "Seapoint Demo Ltd",
+      "bank": {
+        "bank": "NatWest",
+        "sort_code": "60-16-13",
+        "account": "19338204"
+      },
+      "description": "Office cleaning \u2014 August",
+      "email": null
+    },
+    {
+      "id": "inv-05",
+      "payee": "Lodgewood Travel Ltd",
+      "received_from": "accounts@lodgewood.example",
+      "due_date": "2026-10-09",
+      "reference": "LWT-55120",
+      "amount": 6300.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-06",
+      "payee": "Anthropic, PBC",
+      "received_from": "billing@anthropic.example",
+      "due_date": "2026-10-10",
+      "reference": "ANT-INV-2026-09-0412",
+      "amount": 1385.2,
+      "currency": "USD",
+      "ui_new_payee": false,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-07",
+      "payee": "Harrison & Webb Solicitors LLP",
+      "received_from": "accounts@harrisonwebb.example",
+      "due_date": "2026-10-13",
+      "reference": "HW-2026-117",
+      "amount": 2750.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-08",
+      "payee": "Northwind Facilities Ltd",
+      "received_from": "billing@northwind-facilities.example",
+      "due_date": "2026-10-14",
+      "reference": "NW-88690",
+      "amount": 975.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": "Northstar Labs Ltd",
+      "bank": {
+        "bank": "Santander",
+        "sort_code": "09-01-28",
+        "account": "36651902"
+      },
+      "description": "Office cleaning \u2014 September",
+      "email": null
+    },
+    {
+      "id": "inv-09",
+      "payee": "Snowflake Computing UK Ltd",
+      "received_from": "priya.chandra@northstarlabs.example",
+      "due_date": "2026-10-15",
+      "reference": "SNF-INV-2026-10",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": "Northstar Labs Ltd",
+      "bank": {
+        "bank": "HSBC UK",
+        "sort_code": "40-11-62",
+        "account": "71830462"
+      },
+      "description": "Enterprise capacity commitment \u2014 October 2026",
+      "email": {
+        "subject": "Fwd: Invoice SNF-INV-2026-10 from Snowflake",
+        "received": "2026-10-02T09:41",
+        "body": "Forwarding this one for payment. ---------- Forwarded message ---------- Your invoice SNF-INV-2026-10 for October is attached."
+      }
+    },
+    {
+      "id": "inv-10",
+      "payee": "Snowflake Computing UK Ltd",
+      "received_from": "billing@snowflake.example",
+      "due_date": "2026-10-15",
+      "reference": "SNF-INV-2026-10",
+      "amount": 21800.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": "Northstar Labs Ltd",
+      "bank": {
+        "bank": "HSBC UK",
+        "sort_code": "40-11-62",
+        "account": "71830462"
+      },
+      "description": "Enterprise capacity commitment \u2014 October 2026",
+      "email": {
+        "subject": "Invoice SNF-INV-2026-10 from Snowflake",
+        "received": "2026-10-02T09:41",
+        "body": "Hello, Your invoice SNF-INV-2026-10 for October is attached. Snowflake Billing"
+      }
+    },
+    {
+      "id": "inv-11",
+      "payee": "Nordhaus Studio BV",
+      "received_from": "facturen@nordhaus.example",
+      "due_date": "2026-10-19",
+      "reference": "NHS-2026-0142",
+      "amount": 9000.0,
+      "currency": "EUR",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-12",
+      "payee": "PyCon UK Society",
+      "received_from": "Manually uploaded",
+      "due_date": "2026-10-20",
+      "reference": "PYC-26-1187",
+      "amount": 135.0,
+      "currency": "GBP",
+      "ui_new_payee": false,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-13",
+      "payee": "Fathom Talent Partners Ltd",
+      "received_from": "accounts@fathomtalent.example",
+      "due_date": "2026-10-20",
+      "reference": "FTP-0931",
+      "amount": 14400.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-14",
+      "payee": "Slack Technologies",
+      "received_from": "billing@slack.example",
+      "due_date": "2026-10-23",
+      "reference": "SLK-7188",
+      "amount": 486.0,
+      "currency": "GBP",
+      "ui_new_payee": false,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-15",
+      "payee": "Amazon Web Services",
+      "received_from": "aws-billing@amazon.example",
+      "due_date": "2026-10-24",
+      "reference": "AWS-INV-45190",
+      "amount": 7204.2,
+      "currency": "GBP",
+      "ui_new_payee": false,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-16",
+      "payee": "Harbourline Logistics Ltd",
+      "received_from": "invoices@harbourline.example",
+      "due_date": "2026-10-25",
+      "reference": "HL-77120",
+      "amount": 612.48,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-17",
+      "payee": "Remote People Ltd",
+      "received_from": "billing@remotepeople.example",
+      "due_date": "2026-10-25",
+      "reference": "RP-2026-10-118",
+      "amount": 33600.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-18",
+      "payee": "Connolly Accountants",
+      "received_from": "accounts@connolly-accountants.example",
+      "due_date": "2026-10-26",
+      "reference": "CA-2026-0918",
+      "amount": 1800.0,
+      "currency": "GBP",
+      "ui_new_payee": false,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-19",
+      "payee": "Meridian Translations BV",
+      "received_from": "billing@meridiantranslations.example",
+      "due_date": "2026-11-01",
+      "reference": "MT-2026-0442",
+      "amount": 1840.0,
+      "currency": "EUR",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    },
+    {
+      "id": "inv-20",
+      "payee": "WeWork UK Ltd",
+      "received_from": "invoices@wework.example",
+      "due_date": "2026-11-01",
+      "reference": "WW-UK-2026-11-4B",
+      "amount": 2950.0,
+      "currency": "GBP",
+      "ui_new_payee": true,
+      "bill_to": null,
+      "bank": null,
+      "description": null,
+      "email": null
+    }
+  ]
+}

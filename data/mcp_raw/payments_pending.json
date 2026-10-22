@@ -1,0 +1,18 @@
+[
+ {
+  "status": "created",
+  "amount": 3400,
+  "currency": "GBP",
+  "reference": "CM-2026-114",
+  "payee": "Clearview Media Ltd",
+  "invoice_id": "evi_3x13j2hs1y34m0jjc6pbkmc2n9"
+ },
+ {
+  "status": "created",
+  "amount": 2350,
+  "currency": "GBP",
+  "reference": "UNIT-4B rent",
+  "payee": "WeWork UK Ltd",
+  "scheduled_date": "2026-10-18"
+ }
+]
